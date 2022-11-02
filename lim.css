@@ -1,0 +1,54 @@
+body{
+  background-size: cover;
+  font-family: Arial;
+  margin-right: 300px;
+  margin-left: 300px;
+}
+.container{
+  background-color: black;
+  opacity: 0.6;
+  padding:50px 20px 80px 20px;
+  border-radius: 5%;
+}
+#intestazione{
+  color:lime;
+  text-align:center;
+}
+.logo{
+  width: 30%;
+}
+.Ricerca{
+  background-color:lime;
+  margin-left:10%;
+  margin-right: 10%;
+  padding:10px;
+}
+.Gino22, .Mike24, .Fede154{
+  color: white;
+  text-align: left;
+  margin-left: 10%;
+}
+.carica1{
+  display: block;
+  width: 300px;
+  height: 20px;
+  margin-bottom: 20px;
+  border-radius: 5%;
+  background-color: orange;
+}
+.carica2{
+  display: block;
+  width: 500px;
+  height: 20px;
+  margin-bottom: 20px;
+  border-radius: 5%;
+  background-color: lime;
+}
+.carica3{
+  display: block;
+  width: 150px;
+  height: 20px;
+  margin-bottom: 20px;
+  border-radius: 5%;
+  background-color: red;
+}
